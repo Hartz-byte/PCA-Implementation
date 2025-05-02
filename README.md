@@ -1,3 +1,6 @@
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-ML-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+
 # PCA-Implementation in Machine Learning (Scikit-learn)
 
 A simple and effective implementation of Principal Component Analysis (PCA) using Python and Scikit-learn to reduce dimensionality and visualize high-dimensional data.
